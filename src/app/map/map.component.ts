@@ -1,7 +1,7 @@
 import {AfterViewInit, Component} from '@angular/core';
 import * as L from 'leaflet';
-import * as poi from './pois-thessaloniki.json';
-import * as perifereies from './perifereies.json';
+import poi from './pois-thessaloniki.json';
+import perifereies from './perifereies.json';
 
 
 @Component({
